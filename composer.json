@@ -1,0 +1,13 @@
+{
+    "name": "mainmodule/api",
+    "type": "MIT",
+    "license": "1.0.0",
+    "authors": [
+        {
+            "name": "Rockers Technologies",
+            "email": "jaimin.rockersinfo@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
